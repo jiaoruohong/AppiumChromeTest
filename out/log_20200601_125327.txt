@@ -1,0 +1,64 @@
+Application Started ...
+google login
+visit baidu
+list view
+size of list: 2
+####################
+item 0:
+www.baidu.com
+www.baidu.com
+####################
+item 1:
+www.baidu.com
+block location in baidu
+####################
+Queries:
+Query: NUAA: 南京航空航天大学: Success
+Query: RUC: 中国人民大学: Success
+Query: SEU: 东南大学: Success
+Query: DHU: 东华大学: Success
+Query: SISU: 上海外国语大学: Success
+Query: WUT: 武汉理工大学: Success
+Query: CCNU: 华中师范大学: Success
+Query: JLU: 吉林大学: Success
+Query: SJTU: 上海交通大学: Success
+Query: Tongji: 同济大学: Failure
+Query: SCU: 四川大学: Success
+Query: NWAFU: 西北农林科技大学: Success
+Query: NENU: 东北师范大学: Success
+Query: SUFE: 上海财经大学: Success
+Query: CUMT: 中国矿业大学: Success
+Query: SWU: 西南大学: Success
+Query: SDU: 山东大学: Success
+Query: LZU: 兰州大学: Success
+Query: TJU: 天津大学: Success
+Query: NEU: 东北大学: Success
+Query: ECNU: 华东师范大学: Success
+Query: WHU: 武汉大学: Success
+Query: CQU: 重庆大学: Success
+Query: BFSU: 北京外国语大学: Success
+Query: CAU: 中国农业大学: Success
+Query: NKU: 南开大学: Success
+Query: ZJU: 浙江大学: Success
+Query: CSU: 中南大学: Success
+Query: SYSU: 中山大学: Success
+Query: UESTC: 电子科技大学: Success
+Query: XJTU: 西安交通大学: Success
+Query: OUC: 中国海洋大学: Success
+Query: BNU: 北京师范大学: Success
+Query: DUT: 大连理工大学: Success
+Query: NJU: 南京大学: Success
+Query: XMU: 厦门大学: Success
+Query: HUST: 华中科技大学: Success
+Query: HNU: 湖南大学: Success
+Query: SCUT: 华南理工大学: Success
+Query: BIT: 北京理工大学: Success
+Query: BUAA: 北京航空航天大学: Success
+Query: HIT: 哈尔滨工业大学: Success
+Query: NPU: 西北工业大学: Failure
+Query: MUC: 中央民族大学: Success
+Query: USTC: 中国科学技术大学: Success
+Query: USTB: 北京科技大学: Success
+Query: CUFE: 中央财经大学: Success
+Total Queries: 47 Success : 45 Failure : 2
+Completed ...

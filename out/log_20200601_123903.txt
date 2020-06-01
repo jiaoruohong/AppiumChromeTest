@@ -1,0 +1,21 @@
+Application Started ...
+size of list: 2
+####################
+item 0:
+www.baidu.com
+www.baidu.com
+####################
+item 1:
+www.baidu.com
+Query: NUAA: 南京航空航天大学: Success
+Query: RUC: 中国人民大学: Success
+Query: SEU: 东南大学: Success
+Query: DHU: 东华大学: Success
+Query: SISU: 上海外国语大学: Success
+Query: WUT: 武汉理工大学: Success
+Query: CCNU: 华中师范大学: Success
+Query: JLU: 吉林大学: Success
+Query: SJTU: 上海交通大学: Success
+Query: Tongji: 同济大学: Failure
+Query: SCU: 四川大学: Success
+Query: NWAFU: 西北农林科技大学: Success
